@@ -1,0 +1,51 @@
+.container{
+    border: 2px solid black;
+    padding: 40px;
+    margin:100px ;
+    border-radius: 15px;
+}
+
+.box{
+    border: 2px solid black;
+    padding: 14px;
+    display: inline-block;
+    width: 500px;
+    margin:0px 12px;
+    border-radius: 15px;
+    height: 250px;
+}
+#box1{
+    background-image: url("image/img1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.head{
+    font-size: 45px;
+    font-weight: 700;
+    border: 2px solid black;
+    border-radius: 23px;
+    background-color: rgba(255, 255, 255, 0.415);
+}
+.btn{
+    background-color: rgba(94, 220, 110, 0.593);
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-top: 130px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+#box2{
+   margin: 0px 0px -50px 12px;
+}
+.image{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    object-position: center;
+    border: 7px solid black;
+    margin: 4px 12px;
+}
